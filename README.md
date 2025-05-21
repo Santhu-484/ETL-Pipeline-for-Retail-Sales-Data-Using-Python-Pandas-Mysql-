@@ -1,3 +1,4 @@
+
 # 🌦️ Real-Time Weather Data ETL using Python and MySQL
 
 This project demonstrates a real-time ETL (Extract, Transform, Load) pipeline using Python, the OpenWeatherMap API, and MySQL. It is ideal for beginners looking to gain hands-on experience in working with APIs, data transformation, and database storage using Jupyter Notebook.
