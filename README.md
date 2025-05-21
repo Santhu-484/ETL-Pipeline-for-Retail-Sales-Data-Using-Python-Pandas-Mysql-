@@ -61,8 +61,16 @@ CREATE TABLE weather_data (
 - ✅ **Error Handling**: Handles API errors and ensures data quality during transformation.
 - 🔧 **Customizable**: Users can easily modify the city name or API to suit their needs.
 
-## 🔚 Conclusion
+## ✅ Use Cases
+- Learn how ETL pipelines work
+- Practice API integration with Python
+- Build a real-time data ingestion tool
+- Understand how to interact with SQL databases programmatically
+
+## 📌 Conclusion
 
 This project serves as a practical example of building a real-time ETL pipeline using live weather data. By integrating API data extraction, data transformation, and database loading, it demonstrates the foundational steps of data engineering. It is a great starting point for learners aiming to work with APIs, automate data pipelines, and store structured data in relational databases like MySQL. With further enhancements, this project can evolve into a complete real-time data monitoring and analytics system.
+
+![Screenshot 2025-05-21 180041](https://github.com/user-attachments/assets/56735f05-e662-4f18-87f1-b474c6e57c17)
 
 
