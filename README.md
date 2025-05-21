@@ -71,7 +71,8 @@ CREATE TABLE weather_data (
 
 This project serves as a practical example of building a real-time ETL pipeline using live weather data. By integrating API data extraction, data transformation, and database loading, it demonstrates the foundational steps of data engineering. It is a great starting point for learners aiming to work with APIs, automate data pipelines, and store structured data in relational databases like MySQL. With further enhancements, this project can evolve into a complete real-time data monitoring and analytics system.
 
-![Screenshot 2025-05-21 180041](https://github.com/user-attachments/assets/f416f508-8821-4f14-9378-48d8ef48f93d)
+![Screenshot 2025-05-21 180041](https://github.com/user-attachments/assets/bbacff0b-ca03-4c66-a8e5-10a5b457fbd5)
+
 
 
 
