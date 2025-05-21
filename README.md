@@ -50,16 +50,16 @@ CREATE TABLE weather_data (
 
 ## ✨ Features
 
-- 🔌 **API Integration**: Fetches real-time weather data from the OpenWeatherMap API.
-- 🔄 **ETL Workflow**:
-  - **Extract**: Retrieves live weather data for a specific city.
-  - **Transform**: Cleans and structures JSON data for database compatibility.
-  - **Load**: Inserts transformed data into a MySQL database.
-- 🗃️ **MySQL Integration**: Connects seamlessly with a MySQL database to store and query data.
-- 📊 **Scalable Structure**: Easy to extend for additional cities or different API sources.
-- 📝 **Jupyter Notebook Implementation**: Entire ETL process is demonstrated with explanations in an interactive notebook format.
-- ✅ **Error Handling**: Handles API errors and ensures data quality during transformation.
-- 🔧 **Customizable**: Users can easily modify the city name or API to suit their needs.
+- 🔌 API Integration: Fetches real-time weather data from the OpenWeatherMap API.
+- 🔄 ETL Workflow:
+  - Extract: Retrieves live weather data for a specific city.
+  - Transform: Cleans and structures JSON data for database compatibility.
+  - Load: Inserts transformed data into a MySQL database.
+- 🗃️ MySQL Integration: Connects seamlessly with a MySQL database to store and query data.
+- 📊 Scalable Structure: Easy to extend for additional cities or different API sources.
+- 📝 Jupyter Notebook Implementation: Entire ETL process is demonstrated with explanations in an interactive notebook format.
+- ✅ Error Handling: Handles API errors and ensures data quality during transformation.
+- 🔧 Customizable: Users can easily modify the city name or API to suit their needs.
 
 ## ✅ Use Cases
 - Learn how ETL pipelines work
